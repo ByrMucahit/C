@@ -50,3 +50,70 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+C/Alghoritms/Analyses_of_Sort_Algorithm/Control.cpp
+C/Alghoritms/Analyses_of_Sort_Algorithm/program.txt
+C/Alghoritms/Analyses_of_Sort_Algorithm/Random_Numbers.cpp
+C/Alghoritms/Graphs/Graph.txt
+C/Alghoritms/Graphs/Graph_Builder.cpp
+C/Algorithm/Bitwise Operations/Became_0_of_fifth_bit_of_Array.cpp
+C/Algorithm/Linked_List/Circular_Linked_List.cpp
+C/Algorithm/Linked_List/Doubly_Linked_List.cpp
+C/Algorithm/Linked_List/final.txt
+C/Algorithm/Linked_List/Input_variable_you_want.cpp
+C/Algorithm/Linked_List/odd_and_even_number_with_simple_Linked_List.cpp
+C/Algorithm/Linked_List/Read_File_then_Sort.cpp
+C/Algorithm/Linked_List/Simple_Linked_List_.cpp
+C/Algorithm/Linked_List/Simple_Linked_List_Add_member_to_between.cpp
+C/Algorithm/Linked_List/sort_member_up.cpp
+C/Algorithm/Linked_List/tamsayilar.txt
+C/Algorithm/pointer/Print_Opposite_of_Array_with_pointer.cpp
+C/Algorithm/PRATICE/ADD_RECURSİVE.cpp
+C/Algorithm/PRATICE/Combination.cpp
+C/Algorithm/PRATICE/COMBINATION_IN_MATH.cpp
+C/Algorithm/PRATICE/FIND_PRIME_NUMBER.cpp
+C/Algorithm/PRATICE/FIND_SIZE_OF_SENTENCES.c
+C/Algorithm/PRATICE/LOCALIZATION_OF_WORDS_IN_SENTENCES.cpp
+C/Algorithm/PRATICE/NUMBER_OF_DIVIDED_BY_3_AND_5.cpp
+C/Algorithm/PRATICE/OBEB.cpp
+C/Algorithm/PRATICE/OPPOSITE_ARRAY.cpp
+C/Algorithm/PRATICE/ordinary_add_with_linked_list.cpp
+C/Algorithm/PRATICE/Prime_Number.c
+C/Algorithm/PRATICE/Read_Add_Display.cpp
+C/Algorithm/PRATICE/Read_Number_Write_prime_Number.cpp
+C/Algorithm/PRATICE/sayilar.txt
+C/Algorithm/PRATICE/sayilar1.txt
+C/Algorithm/PRATICE/sayilar2.txt
+C/Algorithm/PRATICE/sayılar0.txt
+C/Algorithm/PRATICE/SELECTION_SORT_WITH_POINTER.cpp
+C/Algorithm/PRATICE/Seperation_by_decimals.c
+C/Algorithm/PRATICE/Shift_Bitwise.cpp
+C/Algorithm/PRATICE/Shift_bitwise_then_write_in_file.cpp
+C/Algorithm/PRATICE/SORTING_TRANSACTION_WITH_POINTER.cpp
+C/Algorithm/PRATICE/TRANSACTION_OF_BITWISE_WITH_POINTER.cpp
+C/Algorithm/PRATICE/UPPER_AND_LOWER_CASE.c
+C/Algorithm/PRATICE/Write_in_File.cpp
+C/Algorithm/Recursive/EBOB.cpp
+C/Algorithm/Recursive/EXPONENTIAL_NUMBERS.cpp
+C/Algorithm/Recursive/FACTORIEL.cpp
+C/Algorithm/Recursive/FIBONACCI.cpp
+C/Algorithm/Sort_Algorithms/Insertion_Selection_sort.cpp
+C/Algorithm/Sort_Algorithms/QUICK_SORT.cpp
+C/Algorithm/Sort_Algorithms/QuickSort_2.cpp
+C/Algorithm/Sort_Algorithms/SELECTION.cpp
+C/Algorithm/Sort_Algorithms/SELECTION_INSERTION.cpp
+C/Algorithm/Strings/FIND_CHARACTER.cpp
+C/Algorithm/Strings/POLINDROM.cpp
+C/DataStruct/Linked List/Add_Remove_Display.cpp
+C/DataStruct/Linked List/EventlyLinkList.cpp
+C/DataStruct/Linked List/Find_Common_member.cpp
+C/DataStruct/Linked List/PrimeNumbers.cpp
+C/DataStruct/Linked List/SinglyLinkedList.cpp
+C/DataStruct/Linked List/Stack.txt
+C/DataStruct/Linked List/veri.txt
+C/DataStruct/QUEUE/Cycle_Queue.cpp
+C/DataStruct/QUEUE/Queue.cpp
+C/DataStruct/Stack/Filmler.txt
+C/DataStruct/Stack/Films.cpp
+C/DataStruct/Stack/Stack_Builder.cpp
+C/DataStruct/TypeOfSort/API1.cpp
+C/DataStruct/TypeOfSort/API2.cpp
